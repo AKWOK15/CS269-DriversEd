@@ -10,7 +10,7 @@ Image of Level 2
 Image of Level 3
 ![](ImagesCS269/level3.png)
 
-In my role as a producer, I organized meeting times, assigned deadlines to each member of the group, and created the final presentation that included a demo video. Additionally, I drew the road pixel art using Photopea (broswer version of Photoshop) and the futuristic teal car (with the help of Josh Zhang) and coded the game over scene, dectected when a user passed a certain point to trigger a transiton to the next level, placed down images into the map, incorporated game soune effects, and game tested. 
+In my role as a producer, I organized meeting times, assigned deadlines to each member of the group, and created the final presentation that included a demo video (shown below). Additionally, I drew the road pixel art using Photopea (broswer version of Photoshop) and the futuristic teal car (with the help of Josh Zhang). Finally, I coded the game over scene, detected when the player's car passed a certain point to transition to the next level, placed down images onto the map, coded sound effects into the game, and game tested. 
 
 
 https://user-images.githubusercontent.com/121518425/215891972-7cdc3b90-0684-4eb7-8502-90e06b3b5bd5.mov
