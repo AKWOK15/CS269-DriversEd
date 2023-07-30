@@ -15,8 +15,3 @@ In my role as a producer, I organized meeting times, assigned deadlines to each 
 https://github.com/AKWOK15/CS269-DriversEd/assets/121518425/16af8f83-6beb-46d2-bf8a-3a81483796ce
 
 
-
-
-
-https://github.com/AKWOK15/CS269-DriversEd/assets/121518425/e8722fb6-c7e5-4875-9b40-466abff091e4
-
